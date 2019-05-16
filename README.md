@@ -1,6 +1,6 @@
-# SR-test
-The easiest way to run the test html pages is to use module SimpleHTTPServer Python.
+The easiest way to run the test html page is to use module SimpleHTTPServer Python.
 
+### **Install SimpleHTTPServer Python**
 
 If you use Linux or Mac OS X it is already there.
 
